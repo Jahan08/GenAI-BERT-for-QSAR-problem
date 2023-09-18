@@ -1,2 +1,2 @@
 # GenAI-BERT-for-QSAR-problem
-1.Chem-BERTa
+1.Chem-BERTa--DeepChem
